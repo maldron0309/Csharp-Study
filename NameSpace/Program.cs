@@ -19,7 +19,7 @@
 // namespace는 개념의 표현이라기 보다는
 // 개념의 분류
 namespace APRO
-{ 
+{
     class /*APRO.*/Potion
     {
         // 플레이어가 마시면 HP가 차는 내용을

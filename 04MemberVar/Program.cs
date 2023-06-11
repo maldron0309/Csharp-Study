@@ -62,7 +62,7 @@ class Player
 
     // 수학적의미로는 규칙이나 물리법칙
     // 상수라고 부른다 300
-     
+
     int att = 300;
     int gold = 10;
     int exp = 1000;
